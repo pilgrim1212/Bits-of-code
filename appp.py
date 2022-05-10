@@ -1,0 +1,5 @@
+name = input('Input Your Name: ')
+age = input('Input Your Age: ')
+print('Your name is ' + name + ' and you are ' + age + ' Years old')
+Goal = input('What do you desire to achieve? ')
+print('Apply yourself and you can achieve '+ Goal)
